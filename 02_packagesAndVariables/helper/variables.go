@@ -7,7 +7,7 @@ func Variables() {
 }
 func foo() {
 	c := "Some string"
-	var d = 48
+	const d = 48
 
 	println(c)
 	println(d)
